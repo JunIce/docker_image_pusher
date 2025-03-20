@@ -1,12 +1,12 @@
 #支持私库
-#langgenius/dify-api:1.0.0
-#langgenius/dify-web:1.0.0
+langgenius/dify-api:1.1.1
+langgenius/dify-web:1.1.1
 #langgenius/dify-sandbox:0.2.10
 #langgenius/dify-plugin-daemon:0.0.1-local
 #certbot/certbot
 #milvusdb/milvus:v2.5.0-beta
 #mintplexlabs/anythingllm
-#infiniflow/ragflow:v0.16.0
+infiniflow/ragflow:v0.17.2
 langgenius/dify-sandbox:0.2.10
 langgenius/dify-plugin-daemon:0.0.5-local
 ubuntu/squid:latest
